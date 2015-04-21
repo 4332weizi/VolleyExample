@@ -1,9 +1,11 @@
-package net.funol.volleyexample;
+package net.funol.volleyexample.activity;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import net.funol.volleyexample.R;
 
 
 public class MainActivity extends ActionBarActivity {
