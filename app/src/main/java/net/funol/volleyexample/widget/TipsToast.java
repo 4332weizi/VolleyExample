@@ -9,7 +9,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.ejiaxiu.master.R;
+import net.funol.volleyexample.R;
+
 
 public class TipsToast extends Toast {
 
